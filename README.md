@@ -1,1 +1,1 @@
-# STUDProjects
+# STUDProject
